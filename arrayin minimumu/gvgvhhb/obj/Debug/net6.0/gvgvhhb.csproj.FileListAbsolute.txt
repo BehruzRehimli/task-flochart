@@ -1,0 +1,15 @@
+C:\Users\Ziya\Desktop\Diagram 2ci dərs\gvgvhhb\gvgvhhb\bin\Debug\net6.0\gvgvhhb.exe
+C:\Users\Ziya\Desktop\Diagram 2ci dərs\gvgvhhb\gvgvhhb\bin\Debug\net6.0\gvgvhhb.deps.json
+C:\Users\Ziya\Desktop\Diagram 2ci dərs\gvgvhhb\gvgvhhb\bin\Debug\net6.0\gvgvhhb.runtimeconfig.json
+C:\Users\Ziya\Desktop\Diagram 2ci dərs\gvgvhhb\gvgvhhb\bin\Debug\net6.0\gvgvhhb.dll
+C:\Users\Ziya\Desktop\Diagram 2ci dərs\gvgvhhb\gvgvhhb\bin\Debug\net6.0\gvgvhhb.pdb
+C:\Users\Ziya\Desktop\Diagram 2ci dərs\gvgvhhb\gvgvhhb\obj\Debug\net6.0\gvgvhhb.csproj.AssemblyReference.cache
+C:\Users\Ziya\Desktop\Diagram 2ci dərs\gvgvhhb\gvgvhhb\obj\Debug\net6.0\gvgvhhb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ziya\Desktop\Diagram 2ci dərs\gvgvhhb\gvgvhhb\obj\Debug\net6.0\gvgvhhb.AssemblyInfoInputs.cache
+C:\Users\Ziya\Desktop\Diagram 2ci dərs\gvgvhhb\gvgvhhb\obj\Debug\net6.0\gvgvhhb.AssemblyInfo.cs
+C:\Users\Ziya\Desktop\Diagram 2ci dərs\gvgvhhb\gvgvhhb\obj\Debug\net6.0\gvgvhhb.csproj.CoreCompileInputs.cache
+C:\Users\Ziya\Desktop\Diagram 2ci dərs\gvgvhhb\gvgvhhb\obj\Debug\net6.0\gvgvhhb.dll
+C:\Users\Ziya\Desktop\Diagram 2ci dərs\gvgvhhb\gvgvhhb\obj\Debug\net6.0\refint\gvgvhhb.dll
+C:\Users\Ziya\Desktop\Diagram 2ci dərs\gvgvhhb\gvgvhhb\obj\Debug\net6.0\gvgvhhb.pdb
+C:\Users\Ziya\Desktop\Diagram 2ci dərs\gvgvhhb\gvgvhhb\obj\Debug\net6.0\gvgvhhb.genruntimeconfig.cache
+C:\Users\Ziya\Desktop\Diagram 2ci dərs\gvgvhhb\gvgvhhb\obj\Debug\net6.0\ref\gvgvhhb.dll
