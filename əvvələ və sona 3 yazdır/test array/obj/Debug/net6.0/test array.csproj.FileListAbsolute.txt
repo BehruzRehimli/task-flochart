@@ -1,0 +1,30 @@
+C:\Users\Ziya\Desktop\Diagram 2ci dərs\test array\test array\bin\Debug\net6.0\test array.exe
+C:\Users\Ziya\Desktop\Diagram 2ci dərs\test array\test array\bin\Debug\net6.0\test array.deps.json
+C:\Users\Ziya\Desktop\Diagram 2ci dərs\test array\test array\bin\Debug\net6.0\test array.runtimeconfig.json
+C:\Users\Ziya\Desktop\Diagram 2ci dərs\test array\test array\bin\Debug\net6.0\test array.dll
+C:\Users\Ziya\Desktop\Diagram 2ci dərs\test array\test array\bin\Debug\net6.0\test array.pdb
+C:\Users\Ziya\Desktop\Diagram 2ci dərs\test array\test array\obj\Debug\net6.0\test array.csproj.AssemblyReference.cache
+C:\Users\Ziya\Desktop\Diagram 2ci dərs\test array\test array\obj\Debug\net6.0\test array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ziya\Desktop\Diagram 2ci dərs\test array\test array\obj\Debug\net6.0\test array.AssemblyInfoInputs.cache
+C:\Users\Ziya\Desktop\Diagram 2ci dərs\test array\test array\obj\Debug\net6.0\test array.AssemblyInfo.cs
+C:\Users\Ziya\Desktop\Diagram 2ci dərs\test array\test array\obj\Debug\net6.0\test array.csproj.CoreCompileInputs.cache
+C:\Users\Ziya\Desktop\Diagram 2ci dərs\test array\test array\obj\Debug\net6.0\test array.dll
+C:\Users\Ziya\Desktop\Diagram 2ci dərs\test array\test array\obj\Debug\net6.0\refint\test array.dll
+C:\Users\Ziya\Desktop\Diagram 2ci dərs\test array\test array\obj\Debug\net6.0\test array.pdb
+C:\Users\Ziya\Desktop\Diagram 2ci dərs\test array\test array\obj\Debug\net6.0\test array.genruntimeconfig.cache
+C:\Users\Ziya\Desktop\Diagram 2ci dərs\test array\test array\obj\Debug\net6.0\ref\test array.dll
+C:\Users\Ziya\Desktop\c#\test array\test array\bin\Debug\net6.0\test array.exe
+C:\Users\Ziya\Desktop\c#\test array\test array\bin\Debug\net6.0\test array.deps.json
+C:\Users\Ziya\Desktop\c#\test array\test array\bin\Debug\net6.0\test array.runtimeconfig.json
+C:\Users\Ziya\Desktop\c#\test array\test array\bin\Debug\net6.0\test array.dll
+C:\Users\Ziya\Desktop\c#\test array\test array\bin\Debug\net6.0\test array.pdb
+C:\Users\Ziya\Desktop\c#\test array\test array\obj\Debug\net6.0\test array.csproj.AssemblyReference.cache
+C:\Users\Ziya\Desktop\c#\test array\test array\obj\Debug\net6.0\test array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ziya\Desktop\c#\test array\test array\obj\Debug\net6.0\test array.AssemblyInfoInputs.cache
+C:\Users\Ziya\Desktop\c#\test array\test array\obj\Debug\net6.0\test array.AssemblyInfo.cs
+C:\Users\Ziya\Desktop\c#\test array\test array\obj\Debug\net6.0\test array.csproj.CoreCompileInputs.cache
+C:\Users\Ziya\Desktop\c#\test array\test array\obj\Debug\net6.0\test array.dll
+C:\Users\Ziya\Desktop\c#\test array\test array\obj\Debug\net6.0\refint\test array.dll
+C:\Users\Ziya\Desktop\c#\test array\test array\obj\Debug\net6.0\test array.pdb
+C:\Users\Ziya\Desktop\c#\test array\test array\obj\Debug\net6.0\test array.genruntimeconfig.cache
+C:\Users\Ziya\Desktop\c#\test array\test array\obj\Debug\net6.0\ref\test array.dll
